@@ -1,0 +1,89 @@
+body,ul,li,p{
+  margin:0px;
+  padding:0px;
+  font-family:Arial,sans-serif;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.header{
+ text-align:center;
+  background-image:linear-gradient(to right,#934BEE ,#4819BD );
+  width:300px;
+  height:260px;
+}
+.header img{
+  border-radius:50%;
+  height:120px;
+  width:120px;
+  background:white;
+  
+}
+.header h3{
+  color:white;
+  font-family:sans-serif;
+  font-size:26px;
+  font-weight:600;
+  letter-spacing:1px;
+}
+.header p{
+  font-size:13px;
+  color:rgb(236,233,233);
+}
+
+/* CORPO DO CARD*/
+.card-margin{
+  width:300px;
+  height:460px;
+  display:flex;
+  justify-content:center;
+}
+.card-body ul li{
+  list-style:none;
+  padding:5px;
+  
+
+}
+.card-body ul li p{
+  color:#999999;
+  display:inline;
+}
+.card-body ul li i{
+  color:#934BEE;
+  font-size:26px; 
+  margin-right:7px;
+}
+.card-body{
+   height:220px;
+}
+.card-body h4{
+  color:#999999 ;
+  padding:0px;
+  margin:0px;
+  display:inline;
+}
+.card-body ul{
+  display:flex;
+  margin-top:15px;
+  background:white;
+  padding:10px;
+  box-shadow:0px 4px 10px rgba(0,100,100,0.2);
+}
+.footer{
+
+}
+.footer i{
+  font-size:30px;
+  color: #7f8c8d;
+  margin-left:15px;
+
+}
+.footer i:hover{
+  transform:scale(1.4);
+  transition: all .2s ease-in;
+  color:#934BEE;
+  cursor:pointer;
+
+}
+   
