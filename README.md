@@ -1,3 +1,3 @@
 ### Mobile-Project
 
-<img src="https://i.imgur.com/XTsTQvE.png">
+<img aling="center" src="https://i.imgur.com/XTsTQvE.png">
